@@ -1,0 +1,14 @@
+version: '3'
+services:
+    api:
+        container_name: rpp-project-structure
+        build: 
+            context: .
+        ports: 
+            - "8000:8000"
+        networks: 
+            - rpp-project-structure
+
+networks: 
+    rpp-project-structure:
+            

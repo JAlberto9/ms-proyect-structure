@@ -1,0 +1,1 @@
+En este directoprio lo relacionado a recursos que usan el modelo y la api
